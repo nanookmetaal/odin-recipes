@@ -1,0 +1,13 @@
+* {
+  background-color: rgb(183, 210, 229);
+  color: rgb(36, 43, 49);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(47, 55, 84);
+}
+
+.dish-image {
+  height: auto;
+  width: 450px;
+}
